@@ -24,9 +24,9 @@ SOFTWARE.
 #INTRODUCTION
 #INSTALL INSTRUCTIONS
 
-Step 1] Download zip http://tameesh.in/muks/download
+Step 1] Download zip https://github.com/tameeshB/WiFiLogin/archive/master.zip
 
 Step 2] Terminal
 			sudo apt-get install mechanize
 Step 3] Terminal
-			
+			//instructions to unzip and move to /home/user/
