@@ -1,4 +1,17 @@
 #IIT P WiFi Login
+
+#INTRODUCTION
+#INSTALL INSTRUCTIONS
+
+Step 1] Download zip https://github.com/tameeshB/WiFiLogin/archive/master.zip
+
+Step 2] Terminal
+			sudo apt-get install mechanize
+Step 3] Terminal
+			//instructions to unzip and move to /home/user/
+
+## Project License
+```
 MIT License
 
 Copyright (c) 2017 WiFiLogin
@@ -21,12 +34,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-#INTRODUCTION
-#INSTALL INSTRUCTIONS
-
-Step 1] Download zip https://github.com/tameeshB/WiFiLogin/archive/master.zip
-
-Step 2] Terminal
-			sudo apt-get install mechanize
-Step 3] Terminal
-			//instructions to unzip and move to /home/user/
