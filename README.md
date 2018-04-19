@@ -1,7 +1,7 @@
-#IIT P WiFi Login
+# IIT P WiFi Login
 
-#INTRODUCTION
-#INSTALL INSTRUCTIONS
+# INTRODUCTION
+# INSTALL INSTRUCTIONS
 
 Step 1] Download zip https://github.com/tameeshB/WiFiLogin/archive/master.zip
 
